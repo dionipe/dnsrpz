@@ -2,7 +2,7 @@
 
 zone "trustpositif" IN {
         type master;
-        file "dnsrpz/trustpositif01.zone";
+        file "dnsrpz/trustpositif.zone";
         allow-query {any;};
         allow-update {none;};
 };
