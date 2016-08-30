@@ -1,22 +1,8 @@
 //-------------------- add zone here ---------------------------
 
-zone "trustpositif01" IN {
+zone "trustpositif" IN {
         type master;
-        file "/usr/local/etc/namedb/dnsrpz/trustpositif01.zone";
-        allow-query {any;};
-        allow-update {none;};
-};
-
-zone "trustpositif02" IN {
-        type master;
-        file "/usr/local/etc/namedb/dnsrpz/trustpositif01.zone";
-        allow-query {any;};
-        allow-update {none;};
-};
-
-zone "trustpositif03" IN {
-        type master;
-        file "/usr/local/etc/namedb/dnsrpz/trustpositif01.zone";
+        file "/usr/local/etc/namedb/dnsrpz/trustpositif.zone";
         allow-query {any;};
         allow-update {none;};
 };
