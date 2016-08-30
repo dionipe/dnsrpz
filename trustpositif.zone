@@ -1,0 +1,16 @@
+$TTL 3600
+@       IN      SOA     ns1.he.net.       me.dionipe.id. (
+        2908201601;
+        3600;
+        300;
+        86400;
+        60);
+        IN      NS      ns1.he.net.
+        IN      NS      ns2.he.net.
+
+dnssehat IN A 203.119.13.75
+dnssehat IN A 203.119.13.76
+
+$INCLUDE "dnsrpz/trustpositif01.zone";
+$INCLUDE "dnsrpz/trustpositif02.zone";
+$INCLUDE "dnsrpz/trustpositif03.zone";
