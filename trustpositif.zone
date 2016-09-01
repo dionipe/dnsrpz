@@ -13,4 +13,3 @@ dnssehat IN A 203.119.13.76
 
 $INCLUDE "dnsrpz/trustpositif01.zone";
 $INCLUDE "dnsrpz/trustpositif02.zone";
-$INCLUDE "dnsrpz/trustpositif03.zone";
