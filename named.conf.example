@@ -2,7 +2,7 @@
 
 zone "trustpositif" IN {
         type master;
-        file "/usr/local/etc/namedb/dnsrpz/trustpositif.zone";
+        file "/var/named/dnsrpz/trustpositif.zone";
         allow-query {any;};
         allow-update {none;};
 };
