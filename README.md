@@ -15,7 +15,7 @@ Instalasi:
 1. `cd /var/named`
 2. `git clone https://github.com/dionipe/dnsrpz`
 
-3.edit file `/var/named/dnsrpz/trustpositif.zone`. Sesuaikan record A dnssehat dengan host sendiri, atau biarkan seperti itu saja.
+3. edit file `/var/named/dnsrpz/trustpositif.zone`. Sesuaikan record A dnssehat dengan host sendiri, atau biarkan seperti itu saja.
 
 4. edit named.conf, 
 
