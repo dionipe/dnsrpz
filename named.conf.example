@@ -1,3 +1,11 @@
+// ------------------- Options ----------------------------------
+options {
+
+     response-policy {zone "trustpositif";};
+
+}
+
+//------------------- End of Options ---------------------------
 //-------------------- add zone here ---------------------------
 
 zone "trustpositif" IN {
