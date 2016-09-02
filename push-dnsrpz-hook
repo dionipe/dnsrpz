@@ -1,0 +1,13 @@
+#!/bin/bash
+REPO_NAME=dnsrpz
+REPO_BRANCH=master
+REPO_URL=git@github.com:dionipe/$REPO_NAME.git
+REPO_DIR=~/tmp/$REPO_BRANCH/
+TGT_RSYNC1=/var/named
+
+cd $REPO_DIR
+rm -rf $REPO_DIR$REPO_NAME
+git clone $REPO_URL
+cd $REPO_NAME
+git checkout -f $REPO_BRANCH
+rsync -qazHP $REPO_DIR/$REPO_NAME/ $TGT_RSYNC1 --exclude ".git/"
