@@ -1,0 +1,7 @@
+#!/bin/bash
+DIR=/opt/dnsrpz/ #Sesuaikan dengan Folder yang akan di Sync
+
+cd $DIR
+git clean -fdx
+git reset --hard origin/master
+rndc reload
