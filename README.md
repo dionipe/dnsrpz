@@ -4,11 +4,11 @@ Domain Name Service Response Policy Zones (DNS RPZ)
 Berikut adalah kumpulan dari DNS yang telah dihimpun dari email Trust Positif
 
 
-INSTALASI:
+# INSTALASI:
 
 Requirement:
 
-BIND 9.10+
+## BIND 9.10+
 
 Instalasi: 
 
@@ -39,5 +39,24 @@ zone "trustpositif" IN {
 };
 ```
 
+# Untuk Contributor:
 
+Add Record:
+```
+echo "xx.namadomain.com IN CNAME dnssehat" >> trustpositif02.zone
+git commit -q -m "add domain name"
+git push -q
+```
+
+
+Delete Record:
+```
+sed -i '/xx.namadomain.com/d' trustpositif02.zone
+```
+
+Apply all command :
+```
+git commit -q -m "delete record domain.com"
+git push -q
+```
 
