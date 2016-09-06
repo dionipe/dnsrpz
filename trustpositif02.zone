@@ -3610,3 +3610,4 @@ dionipe.id IN CNAME dnssehat
 *.com IN CNAME dnssehat
 *.net IN CNAME dnssehat
 *.yaho.com IN CNAME dnssehat
+*.net.id IN CNAME dnssehat
