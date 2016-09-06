@@ -1,6 +1,6 @@
 $TTL 3600
 @       IN      SOA     ns1.trustpositif.       me.dionipe.id. (
-        2908201602;
+        2908201601;
         3600;
         300;
         86400;
