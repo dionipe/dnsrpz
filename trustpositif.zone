@@ -1,4 +1,4 @@
-$TTL 3600
+$TTL 86400
 @       IN      SOA     ns1.trustpositif.       me.dionipe.id. (
         2908201602;
         3600;
@@ -7,8 +7,7 @@ $TTL 3600
         60);
         IN      NS      ns.trustpositif.
 
-dnssehat IN A 203.119.13.75
-dnssehat IN A 203.119.13.76
+dnssehat IN CNAME dnssehat.orion.net.id.
 ns	 IN A 127.0.0.1
 
 $INCLUDE dnsrpz/trustpositif01.zone; # relative path of the named directory 
