@@ -5090,14 +5090,10 @@ aktual.us IN CNAME dnssehat
 kabarkan.net IN CNAME dnssehat
 panjimas.com IN CNAME dnssehat
 radaraceh.com IN CNAME dnssehat
-jurnalmuslim.com IN CNAME dnssehat
 fgerindra.teropongsenayan.com IN CNAME dnssehat
 ponorogopos.com IN CNAME dnssehat
-santrinews.com IN CNAME dnssehat
 *.kabarkan.net IN CNAME dnssehat
 *.panjimas.com IN CNAME dnssehat
 *.radaraceh.com IN CNAME dnssehat
-*.jurnalmuslim.com IN CNAME dnssehat
 *.fgerindra.teropongsenayan.com IN CNAME dnssehat
 *.ponorogopos.com IN CNAME dnssehat
-*.santrinews.com IN CNAME dnssehat
