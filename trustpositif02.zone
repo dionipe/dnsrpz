@@ -5088,12 +5088,10 @@ aktual.us IN CNAME dnssehat
 *.islamnkri.com IN CNAME dnssehat
 *.aktual.us IN CNAME dnssehat
 kabarkan.net IN CNAME dnssehat
-panjimas.com IN CNAME dnssehat
 radaraceh.com IN CNAME dnssehat
 fgerindra.teropongsenayan.com IN CNAME dnssehat
 ponorogopos.com IN CNAME dnssehat
 *.kabarkan.net IN CNAME dnssehat
-*.panjimas.com IN CNAME dnssehat
 *.radaraceh.com IN CNAME dnssehat
 *.fgerindra.teropongsenayan.com IN CNAME dnssehat
 *.ponorogopos.com IN CNAME dnssehat
