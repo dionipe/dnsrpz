@@ -5191,7 +5191,6 @@ indahkosmetik.com IN CNAME dnssehat
 supplierkosmetik.com IN CNAME dnssehat
 kosmetikindo.com IN CNAME dnssehat
 nusanews.co IN CNAME dnssehat
-nahimunkar.com IN CNAME dnssehat
 beritapasaran.com IN CNAME dnssehat
 kompasmetro.com IN CNAME dnssehat
 beritateratas.com IN CNAME dnssehat
@@ -5200,7 +5199,6 @@ indoheadlinenews.com IN CNAME dnssehat
 citizenjurnalism.com IN CNAME dnssehat
 tajukindonesia.com IN CNAME dnssehat
 *.nusanews.co IN CNAME dnssehat
-*.nahimunkar.com IN CNAME dnssehat
 *.beritapasaran.com IN CNAME dnssehat
 *.kompasmetro.com IN CNAME dnssehat
 *.beritateratas.com IN CNAME dnssehat
@@ -5210,3 +5208,13 @@ tajukindonesia.com IN CNAME dnssehat
 *.tajukindonesia.com IN CNAME dnssehat
 habibrizieq.com  IN CNAME dnssehat
 *.habibrizieq.com  IN CNAME dnssehat
+portalpiyungan.info  IN CNAME dnssehat
+viralinet.com  IN CNAME dnssehat
+piyunganonline.org  IN CNAME dnssehat
+pkspiyungan.siteblogs.net  IN CNAME dnssehat
+indohooker.com IN CNAME dnssehat
+*.portalpiyungan.info  IN CNAME dnssehat
+*.viralinet.com  IN CNAME dnssehat
+*.piyunganonline.org  IN CNAME dnssehat
+*.pkspiyungan.siteblogs.net  IN CNAME dnssehat
+*.indohooker.com IN CNAME dnssehat
