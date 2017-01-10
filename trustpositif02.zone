@@ -5818,3 +5818,7 @@ habibwalmuhibinpalsu.wordpress.com IN CNAME dnssehat
 berantasalawiyyinpalsu.blogspot.co.id IN CNAME dnssehat
 anandakemas.wordpress.com IN CNAME dnssehat
 awasalawiyyinpalsu.blogspot.co.id IN CNAME dnssehat
+cnnindonesia.info IN CNAME dnssehat
+portalpiyungan.co IN CNAME dnssehat
+*.cnnindonesia.info IN CNAME dnssehat
+*.portalpiyungan.co IN CNAME dnssehat
