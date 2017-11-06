@@ -15907,3 +15907,4 @@ internet-positif.net	IN CNAME dnssehat
 vexian.id	IN CNAME dnssehat
 berita-nusantara-trending.blogspot.co.id	IN CNAME dnssehat
 ent.siteintelgroup.com	IN CNAME dnssehat
+*.tenor.com 	IN CNAME dnssehat
